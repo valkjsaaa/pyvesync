@@ -14,6 +14,10 @@ kitchen_features: dict = {
     'CS137-AF/CS158-AF': {
         'module': 'VeSyncAirFryer158',
         'features': [],
+    },
+    'CAF-LI401S': {
+        'module': 'VeSyncAirFryer158',
+        'features': [],
     }
 }
 
